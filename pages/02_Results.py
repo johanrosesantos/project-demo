@@ -4,5 +4,5 @@ st.title("Results")
 st.write("Here you can put each of your key results.")
 
 st.header("Top Customer Spending")
-st.image("../images/total_spending.png")
+st.image("project-demo/images/total_spending.png")
 st.write("Total Spending")
